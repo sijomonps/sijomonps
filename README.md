@@ -1,5 +1,7 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsijomonps8e251.png?alt=media)
 
+---
+
 # 🚀 **Sijomon PS** | **Full-Stack Developer & Creative Storyteller** 🎬  
 
 ## **💻 Developer | 🎥 Video Editor | 🎨 Creative Thinker**  
@@ -50,3 +52,4 @@ Let's build something **amazing together**! Connect with me on **socials** 🚀
 
 ### ✨ **Fun Fact**  
 🚀 Transitioned from **Commerce** to **IT** out of pure passion! It's never too late to chase your dreams! 💡
+
