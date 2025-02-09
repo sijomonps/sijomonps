@@ -14,7 +14,7 @@ Welcome to my digital space! I'm **Sijomon**, a **Full-Stack Developer in Traini
 - 💻 **Web Developer** | Creating websites with **HTML , CSS**  
 - 🎬 **Video Editor** | Mastering **After Effects, Premiere Pro, and Photoshop** to bring ideas to life  
 - 🎨 **Content Creator** | Making **viral Instagram Reels & engaging social media content**  
-- 🔥 **TEDxKCMT Digital Team** | Spreading ideas through powerful visuals and tech  
+- 🔥 **TEDxKCMT Technical Team** | Spreading ideas through powerful visuals and tech  
 - 🌱 **Lifelong Learner** | Always exploring new tech, UI/UX design, and creative storytelling  
 
 ---
