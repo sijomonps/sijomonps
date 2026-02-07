@@ -41,3 +41,11 @@
 <p align="center">
   <sub>Expanding into modern full-stack development</sub>
 </p>
+
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Web+Development+Enthusiast;Learning+React+and+Node.js;Open+Source+Beginner"
+    alt="Typing SVG"
+  />
+</p>
