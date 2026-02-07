@@ -1,58 +1,86 @@
-<h1 align="center">Hi 👋, I'm Sijomon P S</h1>
-<h3 align="center">Aspiring Full-Stack Developer 🚀</h3>
+<h1 align="center">
+  Hi 👋, I'm Sijomon P S
+</h1>
 
 <p align="center">
-🌱 Learning every day • 💻 Building real projects • 🤝 Open-source enthusiast
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Web+Development+Enthusiast;Learning+React+and+Node.js;Open+Source+Beginner"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  💻 Web Development • 🌱 Continuous Learning • 🚀 Open Source
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about web development  
-- 🧠 Strong foundation in frontend & backend  
-- 🌱 Currently learning modern full-stack technologies  
-- 🎯 Goal: Become a skilled Full-Stack Developer  
+## 🧑‍💻 About Me
+- 🎓 Student with a strong interest in **Full-Stack Web Development**
+- 🌐 Comfortable with frontend & backend fundamentals
+- 🔍 Learning by building real projects
+- 🤝 Actively exploring open-source contributions
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
 ### 🗄 Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 
 ---
 
-## 🎯 What I’m Working Towards
-- 🚀 Full-Stack Web Applications  
-- 🧩 Real-world problem solving  
-- 🌍 Open-source contributions  
+## 🚀 What I’m Focused On
+- 🧩 Building real-world web applications  
+- 📚 Strengthening JavaScript & backend logic  
+- 🌍 Contributing to beginner-friendly open-source projects  
 
 ---
 
-## ✨ Fun Fact
-⚡ I believe **learning by building** is the best way to master technology.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Developer Mindset
+> “Consistency beats motivation. Build every day.”
 
 ---
 
 <p align="center">
-🚀 “Code. Learn. Build. Repeat.”
+  🚀 Code • Learn • Improve • Repeat
 </p>
