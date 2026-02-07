@@ -16,43 +16,20 @@
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github&perline=4"
-    width="80%"
+    src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github&perline=8"
   />
 </p>
 
 <p align="center">
-  <sub>
-    Languages, frameworks, databases, and tools I actively use to build and ship web applications.
-  </sub>
-</p>
-
-<br/>
-
-<p align="center">
   <img 
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Skills&align=center&titleAlign=center&fontSize=14&lineCount=2&theme=github_dark&line1=HTML,Markup,1e3c72;CSS,Styling,2a5298;JavaScript,Logic,f7df1e;Python,Backend,3776ab&line2=Django,Framework,092e20;MySQL,Database,4479a1;Git,Version%20Control,f05032;GitHub,Collaboration,181717"
-  />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=react,nodejs&perline=2"
-    width="60%"
+    src="https://github-readme-tech-stack.vercel.app/api?theme=dark&lineCount=2&stack=HTML,CSS,JavaScript,Python,Django,MySQL,Git,GitHub"
   />
 </p>
 
 <p align="center">
-  <sub>
-    Focused on mastering modern full-stack development and scalable backend architecture.
-  </sub>
+  <sub>Technologies I actively use to build scalable and maintainable applications</sub>
 </p>
 
 <br/>
