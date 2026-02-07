@@ -25,22 +25,22 @@
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🐍 Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-### 🗄 Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Version Control
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
