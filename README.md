@@ -51,14 +51,4 @@
   <sub>Focusing on modern full-stack development and scalable applications</sub>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
-  Code • Learn • Build • Improve
-</p>
