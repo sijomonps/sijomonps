@@ -37,7 +37,6 @@
   <sub>Technologies I use to build and manage web applications</sub>
 </p>
 
----
 
 ## 🌱 Currently Learning
 
