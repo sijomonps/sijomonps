@@ -16,32 +16,49 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github&perline=8"
-  />
+  <img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-tech-stack.vercel.app/api?theme=dark&lineCount=2&stack=HTML,CSS,JavaScript,Python,Django,MySQL,Git,GitHub"
-  />
+  <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-1e293b?style=for-the-badge&logo=django&logoColor=092E20" />
 </p>
 
 <p align="center">
-  <sub>Technologies I actively use to build scalable and maintainable applications</sub>
+  <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img 
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=In%20Progress&align=center&titleAlign=center&fontSize=14&lineCount=1&theme=github_dark&line1=React,Frontend%20Library,61dafb;Node.js,Backend%20Runtime,339933"
-  />
+  <sub>Technologies I use to build and manage web applications</sub>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
 <p align="center">
-  <sub>Expanding into modern full-stack development</sub>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 </p>
 
+<p align="center">
+  <sub>Focusing on modern full-stack development and scalable applications</sub>
+</p>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  Code • Learn • Build • Improve
+</p>
