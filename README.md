@@ -11,16 +11,6 @@
   💻 Web Development • 🌱 Continuous Learning • 🚀 Open Source
 </p>
 
----
-
-## 🧑‍💻 About Me
-- 🎓 Student passionate about web development  
-- 🌐 Strong foundation in HTML, CSS, JavaScript, Python & Django  
-- 🔍 Learning by building real-world projects  
-- 🤝 Actively exploring open-source contributions  
-
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github" />
@@ -33,23 +23,3 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
----
-
-## 🚀 What I’m Focused On
-- 🧩 Building real-world web applications  
-- 📚 Improving JavaScript & backend skills  
-- 🌍 Contributing to beginner-friendly open-source projects  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijomonps&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
