@@ -13,7 +13,6 @@
   Web Development &nbsp;•&nbsp; Continuous Learning &nbsp;•&nbsp; Open Source
 </p>
 
----
 
 ## 🛠 Tech Stack
 
