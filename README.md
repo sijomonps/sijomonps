@@ -1,123 +1,58 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sijomon%20P.S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">👋 Hi, I'm Sijomon</h2>
-<h4 align="center">
-Web Developer in Training • Creative Editor • Tech Explorer
-</h4>
+<h1 align="center">Hi 👋, I'm Sijomon P S</h1>
+<h3 align="center">Aspiring Full-Stack Developer 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sijomonps">
-    <img src="https://img.shields.io/badge/LinkedIn-Sijomon%20PS-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
+🌱 Learning every day • 💻 Building real projects • 🤝 Open-source enthusiast
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 **B.Com with Computer Application | MCA Student**
-- 💻 Learning **Full-Stack Web Development**
-- 🎨 Skilled in **Video Editing & Graphic Design**
-- 🎤 Part of **TEDxKCMT** media & tech team
-- 🚀 Dream: Become a **professional developer** & work on impactful tech
-
-> *"Started with curiosity, staying with consistency."*
+## 🚀 About Me
+- 💻 Passionate about web development  
+- 🧠 Strong foundation in frontend & backend  
+- 🌱 Currently learning modern full-stack technologies  
+- 🎯 Goal: Become a skilled Full-Stack Developer  
 
 ---
 
-## 🔭 Currently Learning
-
-- ⚛️ **React.js** (Components, Hooks, UI)
-- 🧠 **DSA Basics** (Beginner-friendly approach)
-- 🌐 **Backend Fundamentals** (Node.js, Express)
-- 🛠️ **Git & GitHub** (Open source & collaboration)
-- 🎨 **UI/UX Design** using Figma
-
----
-
-## 🧰 Tech Stack & Tools
+## 🛠 Tech Stack
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & Tools
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visualstudiocode)
+### 🐍 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
+### 🗄 Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📂 Featured Projects
-
-### 🛍️ Shopping Website (Small Business)
-- Responsive product website
-- Built using **HTML, CSS & Bootstrap**
-- Helped a small entrepreneur go online
-
-### 🎤 TEDxKCMT Website & Promotions
-- Event website & creative media
-- Designed posters & promo reels
-- Learned teamwork & real-world deadlines
-
-### 🎨 Creative Reels & Editing
-- Viral Instagram reels (1M+ views)
-- Advanced editing using **After Effects & Photoshop**
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sijomonps&theme=tokyonight" />
-</p>
+## 🌱 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🗺️ Learning Roadmap
-
-- ✅ HTML, CSS, JavaScript basics
-- ✅ Git & GitHub fundamentals
-- 🔄 React & frontend projects
-- ⏳ Backend development
-- 🚀 Open Source (GSoC aspirant)
+## 🎯 What I’m Working Towards
+- 🚀 Full-Stack Web Applications  
+- 🧩 Real-world problem solving  
+- 🌍 Open-source contributions  
 
 ---
 
-## 🤝 Looking For
-
-- 🌱 **Internships** (Web / Frontend / Full-Stack)
-- 🧑‍💻 **Open Source Contributions**
-- 🤝 **Collaborations** & learning partners
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sijomonps
-- 📧 Email: yourmail@gmail.com
+## ✨ Fun Fact
+⚡ I believe **learning by building** is the best way to master technology.
 
 ---
 
 <p align="center">
-  <b>“Learning in public. Building every day.”</b>
+🚀 “Code. Learn. Build. Repeat.”
 </p>
-
-<p align="center">
-  ⭐ If you like my profile, consider following!
-</p>
-
