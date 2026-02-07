@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Sijomon+P+S"
-    alt="Name Animation"
-  />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sijomon%20P.S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img 
@@ -43,6 +40,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sijomon%20P.S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+
