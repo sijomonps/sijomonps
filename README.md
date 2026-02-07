@@ -44,19 +44,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sijomonps&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sijomonps&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijomonps&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  🚀 Code • Learn • Build • Repeat
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijomonps&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
