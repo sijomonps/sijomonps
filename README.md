@@ -16,21 +16,13 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+| Tech Stack | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://iconify.design" width="24" height="24" valign="middle" /> HTML5 &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> CSS3 &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> JavaScript &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Python |
+| **Frameworks** | <img src="https://iconify.design" width="24" height="24" valign="middle" /> Django &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Firebase |
+| **Cloud & DevOps** | <img src="https://iconify.design" width="32" height="24" valign="middle" /> AWS &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Docker &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Vercel &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Render |
+| **Tools & Data** | <img src="https://iconify.design" width="24" height="24" valign="middle" /> MySQL &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> Git &nbsp;&nbsp; <img src="https://iconify.design" width="24" height="24" valign="middle" /> GitHub |
 
 
 
