@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Firebase-1e293b?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Vercel-1e293b?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=46E3B7" />
+  <img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
 
