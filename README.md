@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Web Development &nbsp;•&nbsp; Continuous Learning &nbsp;•&nbsp; Open Source
+  Full Stack Developer &nbsp;•&nbsp; Continuous Learning &nbsp;•&nbsp; Creative Ideas
 </p>
 
 
